@@ -1,0 +1,16 @@
+#main-form, #main-result{
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.3);
+
+}
+
+label, input, img, h2{
+
+    display: block;
+    width:70%;
+    margin: 10px auto;
+
+}
